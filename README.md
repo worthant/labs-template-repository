@@ -27,8 +27,8 @@
    <a aria-label="Maven Project" href="https://maven.apache.org/">
       <img alt="" src="https://img.shields.io/badge/Maven-Project-FF69B4?style=for-the-badge&labelColor=000000&color=FF69B4">
    </a>
-   <a aria-label="Repo size" href="https://github.com/worthant/simple-one-page-website">
-    <img alt="" src="https://img.shields.io/github/repo-size/worthant/simple-one-page-website?style=for-the-badge&logo=github&labelColor=000000&color=008080">
+   <a aria-label="Repo size" href="https://github.com/worthant/labs-template-repository">
+    <img alt="" src="https://img.shields.io/github/repo-size/worthant/labs-template-repository?style=for-the-badge&logo=github&labelColor=000000&color=008080">
   </a>
   <a aria-label="Translation" href="./README_RU.md">
     <img alt="" src="https://img.shields.io/badge/translation-RU-red?style=for-the-badge&labelColor=000000">
@@ -37,7 +37,7 @@
     <img alt="" src="https://img.shields.io/github/actions/workflow/status/worthant/simple-one-page-website/php.yaml?branch=main&style=for-the-badge&logo=github-actions&labelColor=000000">
   </a>
   <a aria-label="License" href="./LICENSE">
-    <img alt="" src="https://img.shields.io/github/license/worthant/simple-one-page-website?style=for-the-badge&labelColor=000000">
+    <img alt="" src="https://img.shields.io/github/license/worthant/labs-template-repository?style=for-the-badge&labelColor=000000">
   </a>
     <a aria-label="Vue.js version" href="https://vuejs.org/">
     <img alt="" src="https://img.shields.io/badge/vue.js-v3.2.13-green.svg?style=for-the-badge&logo=vue.js&labelColor=000000">
@@ -48,8 +48,8 @@
   <a aria-label="Yarn version" href="https://yarnpkg.com/">
     <img alt="" src="https://img.shields.io/badge/yarn-v1.22.19-green.svg?style=for-the-badge&logo=yarn&labelColor=000000">
   </a>
-  <a aria-label="Last commit" href="https://github.com/worthant/web-programming-course/commits/main">
-    <img alt="" src="https://img.shields.io/github/last-commit/worthant/web-programming-course?style=for-the-badge&logo=git&labelColor=000000">
+  <a aria-label="Last commit" href="https://github.com/worthant/labs-template-repository/commits/main">
+    <img alt="" src="https://img.shields.io/github/last-commit/worthant/labs-template-repository?style=for-the-badge&logo=git&labelColor=000000">
   </a>
    <!-- New Badge for JavaServer Faces Framework -->
    <a aria-label="JavaServer Faces Framework" href="https://www.oracle.com/java/technologies/javaserverfaces.html">
