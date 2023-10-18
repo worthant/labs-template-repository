@@ -3,7 +3,7 @@
 <p align="center">
   <a href="resources/MVC.png">
     <picture>
-      <img src="resources/logo.png" height="200">
+      <img src="resources/logo.png" height="150">
     </picture>
     <h1 align="center">Имя проекта</h1>
   </a>
@@ -66,7 +66,7 @@
 
 ...
 
-### Цель:
+### Цель
 
 #### 📋 Основные компоненты
 
@@ -82,7 +82,7 @@
 
 #### 🌐 Развертывание
 
-- [x] ...
+- [ ] ...
 
 <a id="defense"></a>
 

@@ -3,7 +3,7 @@
 <p align="center">
   <a href="resources/MVC.png">
     <picture>
-      <img src="resources/logo.png" height="200">
+      <img src="resources/logo.png" height="150">
     </picture>
     <h1 align="center">Project name</h1>
   </a>
